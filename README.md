@@ -10,7 +10,11 @@ These programs are not the final version of the project code and is missing some
 ### Setup and Required Downloads/Add-ons
 This project is run in MATLAB App Designer and requires the MATLAB Support Package for Arduino Hardware to be downloaded. It also requires an Arduino Uno board to be plugged into the COM6 serial port to run.
 
-The project includes two different scripts - one game controlled by a joystick, and another game controlled by a console of three buttons. These two games differ very slightly in terms of gameplay and objectives, but the general format of manipulating falling image blocks with feedback is very similar. These games can also be controlled by keys for easier troubleshooting and so that programming progress is not affected by hardware problems.
+The project includes two different scripts - one game controlled by a joystick, and another game controlled by a console of three buttons. These two games differ very slightly in terms of gameplay and objectives, but the general format of manipulating falling image blocks with feedback is very similar. 
+
+*In both games, blocks respond to button presses and joystick movements, directing an avatar to a certain block or which block should be targeted. Then, the images update based on how this movement is related the objectives of each game. 3 vertical blocks fall and a move to target one block must be made each round of falling, then the order of the blocks randomly regenerates each falling cycle.*
+
+These games can also be controlled by keys for easier troubleshooting and so that programming progress is not affected by hardware problems.
 
 ### Examples
 
