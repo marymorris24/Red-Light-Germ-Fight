@@ -22,6 +22,7 @@ Video Demonstration of Button Game (early stage)
 https://github.com/user-attachments/assets/a3ff3cc8-0cf6-4995-ad56-1d6998397240
 
 Video Demonstration of Joystick Game (early stage)
+https://github.com/user-attachments/assets/047a8afd-8ee1-42c1-a06e-1bd2292da67a
 
 Image of Full Project Including Hardware Button and Joystick Controls
 ![RLGF_Setup](https://github.com/user-attachments/assets/ab25cb4f-b861-461e-8954-f93779bffbac)
