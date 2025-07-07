@@ -18,7 +18,11 @@ These games can also be controlled by keys for easier troubleshooting and so tha
 
 ### Examples
 
-*insert video*
-*insert later editions*
+Video Demonstration of Button Game (early stage)
+https://github.com/user-attachments/assets/a3ff3cc8-0cf6-4995-ad56-1d6998397240
+
+Video Demonstration of Joystick Game (early stage)
+
+
 
 
